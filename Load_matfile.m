@@ -1,0 +1,1 @@
+load('test_lat_day1.mat')
