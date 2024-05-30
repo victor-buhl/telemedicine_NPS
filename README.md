@@ -66,6 +66,8 @@ desiredLineNumber9 = 4;  % Example line number
 
 To plot the data rates just run plot_in_out.m
 make sure you set your file paths:
+
+
 filepath1 = 'C:\Users\victo\OneDrive\Desktop\NPS Classes\Theses Folder\project_test\rate_test.csv'
 filepath2 = 'C:\Users\victo\OneDrive\Desktop\NPS Classes\Theses Folder\project_test\rate_test.csv'
 filepath3 = 'C:\Users\victo\OneDrive\Desktop\NPS Classes\Theses Folder\project_test\rate_test.csv'
