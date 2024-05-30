@@ -2,6 +2,8 @@
 
 All the files required to process the data for the 
 
+***You need the Load_matfile file in the present directory for most of the matlab code to work***
+
 "A COMPARATIVE ANALYSIS ON USING LOW EARTH
 ORBIT AND GEOSYNCHRONOUS ORBIT SATELLITE
 COMMUNICATION SYSTEMS TO SUPPORT
