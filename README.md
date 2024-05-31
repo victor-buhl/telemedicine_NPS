@@ -2,6 +2,8 @@
 
 All the files required to process the data for the 
 
+Thesis are included here:
+
 ***You need the Load_matfile file in the present directory for most of the matlab code to work***
 
 "A COMPARATIVE ANALYSIS ON USING LOW EARTH
@@ -9,8 +11,6 @@ ORBIT AND GEOSYNCHRONOUS ORBIT SATELLITE
 COMMUNICATION SYSTEMS TO SUPPORT
 TELEMEDICAL NETWORKS IN AUSTERE
 EXPEDITIONARY ENVIRONMENTS"
-
-Thesis are included here
 
 The python file satcom_metric_test.py is used to determine packet loss, throughput, and jitter
 
